@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nba>
+    <dirigentes>
+        <comisionado nombre="Adam Silver" años_en_el_puesto="8"/>
+        <vice_comisionado nombre="Mark Tatum"/>
+    </dirigentes>
+    <pabellones>
+        <pabellon nombre="Staples Center" ciudad="Los Angeles" capacidad="19068"/>
+        <pabellon nombre="Madison Square Garden" ciudad="New York" capacidad="19812"/>
+        <pabellon nombre="Smoothie King Center" ciudad="New Orleans" capacidad="16867"/>
+        <pabellon nombre="TD Garden" ciudad="Boston" capacidad="19580"/>
+        <pabellon nombre="American Airlines Arena" ciudad="Miami" capacidad="19600"/>
+        <pabellon nombre="Chase Center" ciudad="San Francisco" capacidad="18064"/>
+        <pabellon nombre="United Center" ciudad="Chicago" capacidad="20917"/>
+        <pabellon nombre="Rocket Mortgage FieldHouse" ciudad="Cleveland" capacidad="19432"/>
+        <pabellon nombre="American Airlines Center" ciudad="Dallas" capacidad="19200"/>
+        <pabellon nombre="Pepsi Center" ciudad="Denver" capacidad="19520"/>
+        <pabellon nombre="Little Caesars Arena" ciudad="Detroit" capacidad="20491"/>
+        <pabellon nombre="Chase Center" ciudad="San Francisco" capacidad="18064"/>
+        <pabellon nombre="Toyota Center" ciudad="Houston" capacidad="18055"/>
+        <pabellon nombre="Bankers Life Fieldhouse" ciudad="Indianapolis" capacidad="17923"/>
+        <pabellon nombre="Staples Center" ciudad="Los Angeles" capacidad="19068"/>
+        <pabellon nombre="Fiserv Forum" ciudad="Milwaukee" capacidad="17500"/>
+        <pabellon nombre="Target Center" ciudad="Minneapolis" capacidad="19356"/>
+        <pabellon nombre="Smoothie King Center" ciudad="New Orleans" capacidad="16867"/>
+        <pabellon nombre="Madison Square Garden" ciudad="New York" capacidad="19812"/>
+        <pabellon nombre="Chesapeake Energy Arena" ciudad="Oklahoma City" capacidad="18203"/>
+        <pabellon nombre="Amway Center" ciudad="Orlando" capacidad="18846"/>
+        <pabellon nombre="Wells Fargo Center" ciudad="Philadelphia" capacidad="20478"/>
+        <pabellon nombre="Talking Stick Resort Arena" ciudad="Phoenix" capacidad="18422"/>
+        <pabellon nombre="Moda Center" ciudad="Portland" capacidad="19441"/>
+        <pabellon nombre="Golden 1 Center" ciudad="Sacramento" capacidad="17583"/>
+        <pabellon nombre="ATyT Center" ciudad="San Antonio" capacidad="18681"/>
+        <pabellon nombre="Vivint Smart Home Arena" ciudad="Salt Lake City" capacidad="18306"/>
+        <pabellon nombre="Capital One Arena" ciudad="Washington D.C." capacidad="20356"/>
+    </pabellones>
+    <premios>
+        <premio nombre="MVP de la Temporada" descripcion="El premio al Jugador Más Valioso de la Temporada NBA es un galardón anual otorgado por la National Basketball Association (NBA) al jugador más destacado de la temporada regular." categoria="individual"/>
+        <premio nombre="Rookie del Año" descripcion="El premio al Novato del Año de la NBA se otorga al mejor jugador de baloncesto que debuta en la liga durante la temporada." categoria="individual"/>
+        <premio nombre="Mejor Entrenador del Año" descripcion="El premio al Entrenador del Año de la NBA se otorga al mejor entrenador de baloncesto de la temporada." categoria="equipo"/>
+        <premio nombre="Mejor Defensor del Año" descripcion="El premio al Mejor Defensor del Año de la NBA se otorga al jugador que más destaque en la defensa durante la temporada regular." categoria="individual"/>
+        <premio nombre="Mejor Sexto Hombre del Año" descripcion="El premio al Mejor Sexto Hombre del Año de la NBA se otorga al jugador que más destaque en su papel de suplente durante la temporada regular." categoria="individual"/>
+        <premio nombre="Jugador Más Mejorado del Año" descripcion="El premio al Jugador Más Mejorado del Año de la NBA se otorga al jugador que más ha mejorado su rendimiento desde la temporada anterior." categoria="individual"/>
+        <premio nombre="Premio Walter Kennedy" descripcion="El Premio Walter Kennedy Citizenship es un premio anual otorgado por la Professional Basketball Writers Association (PBWA) a la persona (jugador, entrenador o personal de la NBA) que ha hecho una contribución sobresaliente a la comunidad." categoria="comunitario"/>      
+    </premios>
+    <jugadores>
+        <franquicia nombre="Los Angeles Lakers" ciudad="Los Angeles">
+            <jugador nombre="LeBron James" posicion="Alero" numero="6" equipo_actual="Los Angeles Lakers" apodo="King James"/>
+            <jugador nombre="Anthony Davis" posicion="Ala-Pívot" numero="3" equipo_actual="Los Angeles Lakers" apodo="The Brow"/>
+            <jugador nombre="Russell Westbrook" posicion="Base" numero="0" equipo_actual="Los Angeles Lakers" apodo="Russ"/>
+            <jugador nombre="Carmelo Anthony" posicion="Alero" numero="7" equipo_actual="Los Angeles Lakers"/>
+            <jugador nombre="Dwight Howard" posicion="Pívot" numero="39" equipo_actual="Los Angeles Lakers"/>
+        </franquicia>
+        <franquicia nombre="Brooklyn Nets" ciudad="Brooklyn">
+            <jugador nombre="Kevin Durant" posicion="Alero" numero="7" equipo_actual="Brooklyn Nets" apodo="KD"/>
+            <jugador nombre="James Harden" posicion="Base" numero="13" equipo_actual="Brooklyn Nets" apodo="The Beard"/>
+            <jugador nombre="Kyrie Irving" posicion="Base" numero="11" equipo_actual="Brooklyn Nets" apodo="Uncle Drew"/>
+            <jugador nombre="Blake Griffin" posicion="Ala-Pívot" numero="2" equipo_actual="Brooklyn Nets"/>
+            <jugador nombre="LaMarcus Aldridge" posicion="Pívot" numero="21" equipo_actual="Brooklyn Nets"/>
+        </franquicia>
+        <franquicia nombre="Atlanta Hawks" ciudad="Atlanta">
+            <jugador nombre="Trae Young" posicion="Base" numero="11" equipo_actual="Atlanta Hawks" apodo="Ice Trae"/>
+            <jugador nombre="John Collins" posicion="Ala-Pívot" numero="20" equipo_actual="Atlanta Hawks"/>
+            <jugador nombre="Clint Capela" posicion="Pívot" numero="15" equipo_actual="Atlanta Hawks"/>
+            <jugador nombre="Bogdan Bogdanovic" posicion="Alero" numero="13" equipo_actual="Atlanta Hawks"/>
+            <jugador nombre="De'Andre Hunter" posicion="Alero" numero="12" equipo_actual="Atlanta Hawks"/>
+        </franquicia>
+        <franquicia nombre="Boston Celtics" ciudad="Boston">
+            <jugador nombre="Jayson Tatum" posicion="Alero" numero="0" equipo_actual="Boston Celtics"/>
+            <jugador nombre="Jaylen Brown" posicion="Alero" numero="7" equipo_actual="Boston Celtics"/>
+            <jugador nombre="Marcus Smart" posicion="Base" numero="36" equipo_actual="Boston Celtics"/>
+            <jugador nombre="Al Horford" posicion="Pívot" numero="42" equipo_actual="Boston Celtics"/>
+            <jugador nombre="Robert Williams III" posicion="Pívot" numero="44" equipo_actual="Boston Celtics" apodo="Time Lord"/>
+        </franquicia>
+        <franquicia nombre="Charlotte Hornets" ciudad="Charlotte">
+            <jugador nombre="LaMelo Ball" posicion="Base" numero="2" equipo_actual="Charlotte Hornets"/>
+            <jugador nombre="Terry Rozier" posicion="Base" numero="3" equipo_actual="Charlotte Hornets"/>
+            <jugador nombre="Gordon Hayward" posicion="Alero" numero="20" equipo_actual="Charlotte Hornets"/>
+            <jugador nombre="Miles Bridges" posicion="Alero" numero="0" equipo_actual="Charlotte Hornets"/>
+            <jugador nombre="PJ Washington" posicion="Ala-Pívot" numero="25" equipo_actual="Charlotte Hornets"/>
+        </franquicia>
+        <franquicia nombre="Chicago Bulls" ciudad="Chicago">
+            <jugador nombre="Zach LaVine" posicion="Alero" numero="8" equipo_actual="Chicago Bulls"/>
+            <jugador nombre="Nikola Vučević" posicion="Pívot" numero="9" equipo_actual="Chicago Bulls"/>
+            <jugador nombre="DeMar DeRozan" posicion="Alero" numero="11" equipo_actual="Chicago Bulls" apodo="Deebo"/>
+            <jugador nombre="Lonzo Ball" posicion="Base" numero="2" equipo_actual="Chicago Bulls"/>
+            <jugador nombre="Patrick Williams" posicion="Alero" numero="44" equipo_actual="Chicago Bulls"/>
+        </franquicia>
+        <franquicia nombre="Cleveland Cavaliers" ciudad="Cleveland">
+            <jugador nombre="Collin Sexton" posicion="Base" numero="2" equipo_actual="Cleveland Cavaliers"/>
+            <jugador nombre="Darius Garland" posicion="Base" numero="10" equipo_actual="Cleveland Cavaliers"/>
+            <jugador nombre="Evan Mobley" posicion="Ala-Pívot" numero="4" equipo_actual="Cleveland Cavaliers"/>
+            <jugador nombre="Jarrett Allen" posicion="Pívot" numero="31" equipo_actual="Cleveland Cavaliers"/>
+            <jugador nombre="Isaac Okoro" posicion="Alero" numero="35" equipo_actual="Cleveland Cavaliers"/>
+        </franquicia>
+        <franquicia nombre="Dallas Mavericks" ciudad="Dallas">
+            <jugador nombre="Luka Dončić" posicion="Base" numero="77" equipo_actual="Dallas Mavericks"/>
+            <jugador nombre="Kristaps Porziņģis" posicion="Ala-Pívot" numero="6" equipo_actual="Dallas Mavericks"/>
+            <jugador nombre="Tim Hardaway Jr." posicion="Alero" numero="11" equipo_actual="Dallas Mavericks"/>
+            <jugador nombre="Dwight Powell" posicion="Pívot" numero="7" equipo_actual="Dallas Mavericks"/>
+            <jugador nombre="Jalen Brunson" posicion="Base" numero="13" equipo_actual="Dallas Mavericks"/>
+        </franquicia>
+        <franquicia nombre="Denver Nuggets" ciudad="Denver">
+            <jugador nombre="Nikola Jokić" posicion="Pívot" numero="15" equipo_actual="Denver Nuggets"/>
+            <jugador nombre="Jamal Murray" posicion="Base" numero="27" equipo_actual="Denver Nuggets"/>
+            <jugador nombre="Aaron Gordon" posicion="Alero" numero="50" equipo_actual="Denver Nuggets"/>
+            <jugador nombre="Michael Porter Jr." posicion="Alero" numero="1" equipo_actual="Denver Nuggets"/>
+            <jugador nombre="Will Barton" posicion="Alero" numero="5" equipo_actual="Denver Nuggets" apodo="Thrill"/>
+        </franquicia>
+        <franquicia nombre="Detroit Pistons" ciudad="Detroit">
+            <jugador nombre="Cade Cunningham" posicion="Base" numero="2" equipo_actual="Detroit Pistons"/>
+            <jugador nombre="Jerami Grant" posicion="Alero" numero="9" equipo_actual="Detroit Pistons"/>
+            <jugador nombre="Killian Hayes" posicion="Base" numero="7" equipo_actual="Detroit Pistons"/>
+            <jugador nombre="Isaiah Stewart" posicion="Pívot" numero="28" equipo_actual="Detroit Pistons"/>
+            <jugador nombre="Saddiq Bey" posicion="Alero" numero="41" equipo_actual="Detroit Pistons"/>
+        </franquicia>
+        <franquicia nombre="Golden State Warriors" ciudad="Golden State">
+            <jugador nombre="Stephen Curry" posicion="Base" numero="30" equipo_actual="Golden State Warriors" apodo="Chef Curry"/>
+            <jugador nombre="Klay Thompson" posicion="Alero" numero="11" equipo_actual="Golden State Warriors" apodo="Splash Brother"/>
+            <jugador nombre="Draymond Green" posicion="Ala-Pívot" numero="23" equipo_actual="Golden State Warriors"/>
+            <jugador nombre="Andrew Wiggins" posicion="Alero" numero="22" equipo_actual="Golden State Warriors"/>
+            <jugador nombre="James Wiseman" posicion="Pívot" numero="33" equipo_actual="Golden State Warriors"/>
+        </franquicia>
+        <franquicia nombre="Houston Rockets" ciudad="Houston">
+            <jugador nombre="Christian Wood" posicion="Ala-Pívot" numero="35" equipo_actual="Houston Rockets"/>
+            <jugador nombre="Jalen Green" posicion="Alero" numero="0" equipo_actual="Houston Rockets"/>
+            <jugador nombre="Kevin Porter Jr." posicion="Base" numero="3" equipo_actual="Houston Rockets"/>
+            <jugador nombre="Alperen Şengün" posicion="Pívot" numero="28" equipo_actual="Houston Rockets"/>
+            <jugador nombre="Jae'Sean Tate" posicion="Alero" numero="8" equipo_actual="Houston Rockets"/>
+        </franquicia>
+        <franquicia nombre="Indiana Pacers" ciudad="Indiana">
+            <jugador nombre="Malcolm Brogdon" posicion="Base" numero="7" equipo_actual="Indiana Pacers"/>
+            <jugador nombre="Domantas Sabonis" posicion="Pívot" numero="11" equipo_actual="Indiana Pacers"/>
+            <jugador nombre="Myles Turner" posicion="Pívot" numero="33" equipo_actual="Indiana Pacers"/>
+            <jugador nombre="Caris LeVert" posicion="Alero" numero="22" equipo_actual="Indiana Pacers"/>
+            <jugador nombre="T.J. Warren" posicion="Alero" numero="1" equipo_actual="Indiana Pacers"/>
+        </franquicia>
+        <franquicia nombre="Los Angeles Clippers" ciudad="Los Angeles">
+            <jugador nombre="Kawhi Leonard" posicion="Alero" numero="2" equipo_actual="Los Angeles Clippers"/>
+            <jugador nombre="Paul George" posicion="Alero" numero="13" equipo_actual="Los Angeles Clippers"/>
+            <jugador nombre="Serge Ibaka" posicion="Pívot" numero="9" equipo_actual="Los Angeles Clippers"/>
+            <jugador nombre="Reggie Jackson" posicion="Base" numero="1" equipo_actual="Los Angeles Clippers"/>
+            <jugador nombre="Nicolas Batum" posicion="Alero" numero="33" equipo_actual="Los Angeles Clippers"/>
+        </franquicia>
+        <franquicia nombre="Memphis Grizzlies" ciudad="Memphis">
+            <jugador nombre="Ja Morant" posicion="Base" numero="12" equipo_actual="Memphis Grizzlies"/>
+            <jugador nombre="Jaren Jackson Jr." posicion="Ala-Pívot" numero="13" equipo_actual="Memphis Grizzlies"/>
+            <jugador nombre="Dillon Brooks" posicion="Alero" numero="24" equipo_actual="Memphis Grizzlies"/>
+            <jugador nombre="Steven Adams" posicion="Pívot" numero="12" equipo_actual="Memphis Grizzlies"/>
+            <jugador nombre="Desmond Bane" posicion="Alero" numero="22" equipo_actual="Memphis Grizzlies"/>
+        </franquicia>
+        <franquicia nombre="Miami Heat" ciudad="Miami">
+            <jugador nombre="Jimmy Butler" posicion="Alero" numero="22" equipo_actual="Miami Heat"/>
+            <jugador nombre="Bam Adebayo" posicion="Pívot" numero="13" equipo_actual="Miami Heat"/>
+            <jugador nombre="Tyler Herro" posicion="Base" numero="14" equipo_actual="Miami Heat"/>
+            <jugador nombre="Kyle Lowry" posicion="Base" numero="7" equipo_actual="Miami Heat"/>
+            <jugador nombre="Duncan Robinson" posicion="Alero" numero="55" equipo_actual="Miami Heat"/>
+        </franquicia>
+        <franquicia nombre="Milwaukee Bucks" ciudad="Milwaukee">
+            <jugador nombre="Giannis Antetokounmpo" posicion="Ala-Pívot" numero="34" equipo_actual="Milwaukee Bucks" apodo="Greek Freak"/>
+            <jugador nombre="Khris Middleton" posicion="Alero" numero="22" equipo_actual="Milwaukee Bucks"/>
+            <jugador nombre="Jrue Holiday" posicion="Base" numero="21" equipo_actual="Milwaukee Bucks"/>
+            <jugador nombre="Brook Lopez" posicion="Pívot" numero="11" equipo_actual="Milwaukee Bucks"/>
+            <jugador nombre="Pat Connaughton" posicion="Alero" numero="24" equipo_actual="Milwaukee Bucks"/>
+        </franquicia>
+        <franquicia nombre="Minnesota Timberwolves" ciudad="Minnesota">
+            <jugador nombre="Karl-Anthony Towns" posicion="Pívot" numero="32" equipo_actual="Minnesota Timberwolves" apodo="KAT"/>
+            <jugador nombre="Anthony Edwards" posicion="Alero" numero="1" equipo_actual="Minnesota Timberwolves"/>
+            <jugador nombre="D'Angelo Russell" posicion="Base" numero="0" equipo_actual="Minnesota Timberwolves"/>
+            <jugador nombre="Malik Beasley" posicion="Alero" numero="5" equipo_actual="Minnesota Timberwolves"/>
+            <jugador nombre="Jarrett Culver" posicion="Alero" numero="23" equipo_actual="Minnesota Timberwolves"/>
+        </franquicia>
+        <franquicia nombre="New Orleans Pelicans" ciudad="New Orleans">
+            <jugador nombre="Zion Williamson" posicion="Alero" numero="1" equipo_actual="New Orleans Pelicans"/>
+            <jugador nombre="Brandon Ingram" posicion="Alero" numero="14" equipo_actual="New Orleans Pelicans"/>
+            <jugador nombre="Jonas Valančiūnas" posicion="Pívot" numero="17" equipo_actual="New Orleans Pelicans"/>
+            <jugador nombre="Josh Hart" posicion="Alero" numero="3" equipo_actual="New Orleans Pelicans"/>
+            <jugador nombre="Devonte' Graham" posicion="Base" numero="4" equipo_actual="New Orleans Pelicans"/>
+        </franquicia>
+        <franquicia nombre="New York Knicks" ciudad="New York">
+            <jugador nombre="Julius Randle" posicion="Ala-Pívot" numero="30" equipo_actual="New York Knicks"/>
+            <jugador nombre="RJ Barrett" posicion="Alero" numero="9" equipo_actual="New York Knicks"/>
+            <jugador nombre="Evan Fournier" posicion="Alero" numero="13" equipo_actual="New York Knicks"/>
+            <jugador nombre="Mitchell Robinson" posicion="Pívot" numero="23" equipo_actual="New York Knicks"/>
+            <jugador nombre="Derrick Rose" posicion="Base" numero="4" equipo_actual="New York Knicks"/>
+        </franquicia>
+        <franquicia nombre="Oklahoma City Thunder" ciudad="Oklahoma City">
+            <jugador nombre="Shai Gilgeous-Alexander" posicion="Base" numero="2" equipo_actual="Oklahoma City Thunder"/>
+            <jugador nombre="Lu Dort" posicion="Alero" numero="5" equipo_actual="Oklahoma City Thunder"/>
+            <jugador nombre="Josh Giddey" posicion="Alero" numero="3" equipo_actual="Oklahoma City Thunder"/>
+            <jugador nombre="Darius Bazley" posicion="Ala-Pívot" numero="7" equipo_actual="Oklahoma City Thunder"/>
+            <jugador nombre="Jeremiah Robinson-Earl" posicion="Pívot" numero="50" equipo_actual="Oklahoma City Thunder"/>
+        </franquicia>
+        <franquicia nombre="Orlando Magic" ciudad="Orlando">
+            <jugador nombre="Jonathan Isaac" posicion="Ala-Pívot" numero="1" equipo_actual="Orlando Magic"/>
+            <jugador nombre="Markelle Fultz" posicion="Base" numero="20" equipo_actual="Orlando Magic"/>
+            <jugador nombre="Wendell Carter Jr." posicion="Pívot" numero="34" equipo_actual="Orlando Magic"/>
+            <jugador nombre="Cole Anthony" posicion="Base" numero="50" equipo_actual="Orlando Magic"/>
+            <jugador nombre="Terrence Ross" posicion="Alero" numero="31" equipo_actual="Orlando Magic"/>
+        </franquicia>
+        <franquicia nombre="Philadelphia 76ers" ciudad="Philadelphia">
+            <jugador nombre="Joel Embiid" posicion="Pívot" numero="21" equipo_actual="Philadelphia 76ers"/>
+            <jugador nombre="Ben Simmons" posicion="Base" numero="25" equipo_actual="Philadelphia 76ers"/>
+            <jugador nombre="Tobias Harris" posicion="Alero" numero="12" equipo_actual="Philadelphia 76ers"/>
+            <jugador nombre="Tyrese Maxey" posicion="Base" numero="0" equipo_actual="Philadelphia 76ers"/>
+            <jugador nombre="Seth Curry" posicion="Base" numero="31" equipo_actual="Philadelphia 76ers"/>
+        </franquicia>
+        <franquicia nombre="Phoenix Suns" ciudad="Phoenix">
+            <jugador nombre="Devin Booker" posicion="Base" numero="1" equipo_actual="Phoenix Suns"/>
+            <jugador nombre="Chris Paul" posicion="Base" numero="3" equipo_actual="Phoenix Suns"/>
+            <jugador nombre="Deandre Ayton" posicion="Pívot" numero="22" equipo_actual="Phoenix Suns"/>
+            <jugador nombre="Mikal Bridges" posicion="Alero" numero="25" equipo_actual="Phoenix Suns"/>
+            <jugador nombre="Jae Crowder" posicion="Alero" numero="99" equipo_actual="Phoenix Suns"/>
+        </franquicia>
+        <franquicia nombre="Portland Trail Blazers" ciudad="Portland">
+            <jugador nombre="Damian Lillard" posicion="Base" numero="0" equipo_actual="Portland Trail Blazers"/>
+            <jugador nombre="CJ McCollum" posicion="Base" numero="3" equipo_actual="Portland Trail Blazers"/>
+            <jugador nombre="Norman Powell" posicion="Alero" numero="24" equipo_actual="Portland Trail Blazers"/>
+            <jugador nombre="Robert Covington" posicion="Ala-Pívot" numero="23" equipo_actual="Portland Trail Blazers"/>
+            <jugador nombre="Jusuf Nurkić" posicion="Pívot" numero="27" equipo_actual="Portland Trail Blazers"/>
+        </franquicia>
+        <franquicia nombre="Sacramento Kings" ciudad="Sacramento">
+            <jugador nombre="De'Aaron Fox" posicion="Base" numero="5" equipo_actual="Sacramento Kings"/>
+            <jugador nombre="Tyrese Haliburton" posicion="Base" numero="0" equipo_actual="Sacramento Kings"/>
+            <jugador nombre="Harrison Barnes" posicion="Alero" numero="40" equipo_actual="Sacramento Kings"/>
+            <jugador nombre="Marvin Bagley III" posicion="Ala-Pívot" numero="35" equipo_actual="Sacramento Kings"/>
+            <jugador nombre="Richaun Holmes" posicion="Pívot" numero="22" equipo_actual="Sacramento Kings"/>
+        </franquicia>
+        <franquicia nombre="San Antonio Spurs" ciudad="San Antonio">
+            <jugador nombre="Dejounte Murray" posicion="Base" numero="5" equipo_actual="San Antonio Spurs"/>
+            <jugador nombre="Derrick White" posicion="Base" numero="4" equipo_actual="San Antonio Spurs"/>
+            <jugador nombre="Keldon Johnson" posicion="Alero" numero="3" equipo_actual="San Antonio Spurs"/>
+            <jugador nombre="Jakob Poeltl" posicion="Pívot" numero="25" equipo_actual="San Antonio Spurs"/>
+            <jugador nombre="Lonnie Walker IV" posicion="Alero" numero="1" equipo_actual="San Antonio Spurs"/>
+        </franquicia>
+        <franquicia nombre="Toronto Raptors" ciudad="Toronto">
+            <jugador nombre="Pascal Siakam" posicion="Ala-Pívot" numero="43" equipo_actual="Toronto Raptors"/>
+            <jugador nombre="Fred VanVleet" posicion="Base" numero="23" equipo_actual="Toronto Raptors"/>
+            <jugador nombre="OG Anunoby" posicion="Alero" numero="3" equipo_actual="Toronto Raptors"/>
+            <jugador nombre="Scottie Barnes" posicion="Alero" numero="4" equipo_actual="Toronto Raptors"/>
+            <jugador nombre="Chris Boucher" posicion="Pívot" numero="25" equipo_actual="Toronto Raptors"/>
+        </franquicia>
+        <franquicia nombre="Utah Jazz" ciudad="Utah">
+            <jugador nombre="Donovan Mitchell" posicion="Alero" numero="45" equipo_actual="Utah Jazz"/>
+            <jugador nombre="Rudy Gobert" posicion="Pívot" numero="27" equipo_actual="Utah Jazz"/>
+            <jugador nombre="Mike Conley" posicion="Base" numero="10" equipo_actual="Utah Jazz"/>
+            <jugador nombre="Bojan Bogdanović" posicion="Alero" numero="44" equipo_actual="Utah Jazz"/>
+            <jugador nombre="Jordan Clarkson" posicion="Base" numero="00" equipo_actual="Utah Jazz"/>
+        </franquicia>
+        <franquicia nombre="Washington Wizards" ciudad="Washington">
+            <jugador nombre="Bradley Beal" posicion="Escolta" numero="3" equipo_actual="Washington Wizards"/>
+            <jugador nombre="Kyle Kuzma" posicion="Alero" numero="9" equipo_actual="Washington Wizards"/>
+            <jugador nombre="Spencer Dinwiddie" posicion="Base" numero="26" equipo_actual="Washington Wizards"/>
+            <jugador nombre="Kristaps Porziņģis" posicion="Pívot" numero="6" equipo_actual="Washington Wizards"/>
+            <jugador nombre="Daniel Gafford" posicion="Pívot" numero="21" equipo_actual="Washington Wizards"/>
+        </franquicia>    
+    </jugadores>
+    
+</nba>

@@ -1,0 +1,184 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    max-width: 100vw;
+    height: 100vh;
+    background-color: black;
+
+}
+
+main{
+    width: 100%;
+    height: fit-content;
+    background-color: antiquewhite;
+    /* margin-left: 5%; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(90deg, rgba(0,31,255,0.8995973389355743) 35%, rgba(255,0,0,0.896796218487395) 65%);
+    flex-wrap: wrap;
+}
+.logo{
+    width: 100%;
+    height: 15%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* border: 2px solid white; */
+}
+.tituloNBA{
+    font-size: 30px;
+    color: white;
+}
+.imgNBA{
+    height: 90px;
+    width: 40px;
+}
+
+.tituloEquipos{
+    font-size: 30px;
+    color: whitesmoke;
+    margin-bottom: 10px;
+}
+
+h1{
+    color: whitesmoke;
+    font-size: 24px;
+    text-align: center;
+}
+
+p{
+    color: whitesmoke;
+    font-size: 20px;
+}
+
+li{
+    color: whitesmoke;
+    font-size: 15px;
+    margin-top: 3px;
+}
+
+ul{
+    width: 90%;
+    height: 100%;
+    display: inline-block;
+    list-style: none;
+    margin-left: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+.equipos{
+    width: 100%;
+    height: 50%;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    overflow:auto;
+    scrollbar-width:none;
+    /* border: 2px solid white; */
+}
+.equipo{
+    width: 100%;
+    height: 95%;
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+    align-items: center;
+    gap:10px;
+    flex-wrap: wrap;
+}
+
+.cardEquipo{
+    width: 260px;
+    height: 340px;
+    border: 8px groove white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.imgEquipo{
+    width: 100px;
+    height: 100px;
+}
+
+.sectionJugador{
+    width: 100%;
+    height:fit-content;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.divCardJug{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.cardJugadores{
+    width: 650px;
+    height: 220px;
+    border: 3px inset white;
+}
+
+.sectionPabellon{
+    width: 79.5%;
+    height: 600px;
+    border: 5px groove white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.sectionPremio{
+    width: 79.5%;
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 5px groove white;
+    gap: 3px;
+}
+
+
+.dirigente{
+    width: 500px;
+    height: 100px;
+    padding-top: 10px;
+    padding-left: 15%;
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: flex-start;
+    gap: 10px;
+    border: 5px ridge white;
+
+}
+.tituloD{
+    padding-left: 55px;
+}
+
+section{
+    margin-bottom: 10px;
+}
+
+

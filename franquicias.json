@@ -1,0 +1,244 @@
+{
+  "franquicias": [
+     {
+      "nombre": "Atlanta Hawks",
+      "ciudad": "Atlanta",
+      "estado": "Georgia",
+      "conferencia": "Este",
+      "division": "Sureste",
+      "fundado": 1946
+    },
+    {
+      "nombre": "Boston Celtics",
+      "ciudad": "Boston",
+      "estado": "Massachusetts",
+      "conferencia": "Este",
+      "division": "Atlantico",
+      "fundado": 1946
+    },
+    {
+      "nombre": "Brooklyn Nets",
+      "ciudad": "Brooklyn",
+      "estado": "Nueva York",
+      "conferencia": "Este",
+      "division": "Atlantico",
+      "fundado": 1967
+    },
+    {
+      "nombre": "Charlotte Hornets",
+      "ciudad": "Charlotte",
+      "estado": "Carolina del Norte",
+      "conferencia": "Este",
+      "division": "Sureste",
+      "fundado": 1988
+    },
+    {
+      "nombre": "Chicago Bulls",
+      "ciudad": "Chicago",
+      "estado": "Illinois",
+      "conferencia": "Este",
+      "division": "Central",
+      "fundado": 1966
+    },
+    {
+      "nombre": "Cleveland Cavaliers",
+      "ciudad": "Cleveland",
+      "estado": "Ohio",
+      "conferencia": "Este",
+      "division": "Central",
+      "fundado": 1970
+    },
+    {
+      "nombre": "Dallas Mavericks",
+      "ciudad": "Dallas",
+      "estado": "Texas",
+      "conferencia": "Oeste",
+      "division": "Suroeste",
+      "fundado": 1980
+    },
+    {
+      "nombre": "Denver Nuggets",
+      "ciudad": "Denver",
+      "estado": "Colorado",
+      "conferencia": "Oeste",
+      "division": "Noroeste",
+      "fundado": 1967
+    },
+    {
+      "nombre": "Detroit Pistons",
+      "ciudad": "Detroit",
+      "estado": "Michigan",
+      "conferencia": "Este",
+      "division": "Central",
+      "fundado": 1941
+    },
+    {
+      "nombre": "Golden State Warriors",
+      "ciudad": "San Francisco",
+      "estado": "California",
+      "conferencia": "Oeste",
+      "division": "Pacifico",
+      "fundado": 1946
+    },
+    {
+      "nombre": "Houston Rockets",
+      "ciudad": "Houston",
+      "estado": "Texas",
+      "conferencia": "Oeste",
+      "division": "Suroeste",
+      "fundado": 1967
+    },
+    {
+      "nombre": "Indiana Pacers",
+      "ciudad": "Indianápolis",
+      "estado": "Indiana",
+      "conferencia": "Este",
+      "division": "Central",
+      "fundado": 1967
+    },
+    {
+      "nombre": "Los Angeles Clippers",
+      "ciudad": "Los Ángeles",
+      "estado": "California",
+      "conferencia": "Oeste",
+      "division": "Pacifico",
+      "fundado": 1970
+    },
+    {
+      "nombre": "Los Angeles Lakers",
+      "ciudad": "Los Ángeles",
+      "estado": "California",
+      "conferencia": "Oeste",
+      "division": "Pacifico",
+      "fundado": 1947
+    },
+    {
+      "nombre": "Memphis Grizzlies",
+      "ciudad": "Memphis",
+      "estado": "Tennessee",
+      "conferencia": "Oeste",
+      "division": "Suroeste",
+      "fundado": 1995
+    },
+    {
+      "nombre": "Miami Heat",
+      "ciudad": "Miami",
+      "estado": "Florida",
+      "conferencia": "Este",
+      "division": "Sureste",
+      "fundado": 1988
+    },
+    {
+      "nombre": "Milwaukee Bucks",
+      "ciudad": "Milwaukee",
+      "estado": "Wisconsin",
+      "conferencia": "Este",
+      "division": "Central",
+      "fundado": 1968
+    },
+    {
+      "nombre": "Minnesota Timberwolves",
+      "ciudad": "Minneapolis",
+      "estado": "Minnesota",
+      "conferencia": "Oeste",
+      "division": "Noroeste",
+      "fundado": 1989
+    },
+    {
+      "nombre": "New Orleans Pelicans",
+      "ciudad": "Nueva Orleans",
+      "estado": "Luisiana",
+      "conferencia": "Oeste",
+      "division": "Suroeste",
+      "fundado": 2002
+    },
+    {
+      "nombre": "New York Knicks",
+      "ciudad": "Nueva York",
+      "estado": "Nueva York",
+      "conferencia": "Este",
+      "division": "Atlantico",
+      "fundado": 1946
+    },
+    {
+      "nombre": "Oklahoma City Thunder",
+      "ciudad": "Oklahoma City",
+      "estado": "Oklahoma",
+      "conferencia": "Oeste",
+      "division": "Noroeste",
+      "fundado": 1967
+    },
+    {
+      "nombre": "Orlando Magic",
+      "ciudad": "Orlando",
+      "estado": "Florida",
+      "conferencia": "Este",
+      "division": "Sureste",
+      "fundado": 1989
+    },
+    {
+      "nombre": "Philadelphia 76ers",
+      "ciudad": "Filadelfia",
+      "estado": "Pensilvania",
+      "conferencia": "Este",
+      "division": "Atlantico",
+      "fundado": 1946
+    },
+    {
+      "nombre": "Phoenix Suns",
+      "ciudad": "Phoenix",
+      "estado": "Arizona",
+      "conferencia": "Oeste",
+      "division": "Pacifico",
+      "fundado": 1968
+    },
+    {
+      "nombre": "Portland Trail Blazers",
+      "ciudad": "Portland",
+      "estado": "Oregón",
+      "conferencia": "Oeste",
+      "division": "Noroeste",
+      "fundado": 1970
+    },
+    {
+      "nombre": "Sacramento Kings",
+      "ciudad": "Sacramento",
+      "estado": "California",
+      "conferencia": "Oeste",
+      "division": "Pacifico",
+      "fundado": 1945
+    },
+    {
+      "nombre": "San Antonio Spurs",
+      "ciudad": "San Antonio",
+      "estado": "Texas",
+      "conferencia": "Oeste",
+      "division": "Suroeste",
+      "fundado": 1967
+    },
+    {
+      "nombre": "Toronto Raptors",
+      "ciudad": "Toronto",
+      "estado": "Ontario",
+      "conferencia": "Este",
+      "division": "Atlantico",
+      "fundado": 1995
+    },
+    {
+      "nombre": "Utah Jazz",
+      "ciudad": "Salt Lake City",
+      "estado": "Utah",
+      "conferencia": "Oeste",
+      "division": "Noroeste",
+      "fundado": 1974
+    },
+    {
+      "nombre": "Washington Wizards",
+      "ciudad": "Washington, D.C.",
+      "estado": "Distrito de Columbia",
+      "conferencia": "Este",
+      "division": "Sureste",
+      "fundado": 1961
+    }
+  ]  
+}
