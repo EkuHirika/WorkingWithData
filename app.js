@@ -1,8 +1,5 @@
 /**
- * @author Jesús Ramos Angulo
  * @author Eva Fedusova
- * @email jramosa999@alumnos.imf.com
- * @email efeduzova359@alumnos.imf.com
  */
 
 fetch("franquicias.json")
